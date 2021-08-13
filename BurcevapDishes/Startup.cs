@@ -31,7 +31,7 @@ namespace BurcevapDishes
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Dish API",
+                    Title = "Dish API v1",
                     Description = "A simple example ASP.NET Core Web API",
                 });
 
