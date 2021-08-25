@@ -32,7 +32,7 @@ namespace BurcevapDishes
                 {
                     Version = "v1",
                     Title = "Dish API v1",
-                    Description = "A simpledsdsads example ASP.NET Core Web API",
+                    Description = "dsadA simpledsdsads exampldsae ASP.NET Core Web API",
                 });
 
                 // Set the comments path for the Swagger JSON and UI.
